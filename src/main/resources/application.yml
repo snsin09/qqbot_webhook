@@ -1,0 +1,14 @@
+server:
+  port: 9527
+
+logging:
+  level:
+    root: info
+  file:
+    name: logs/bot.log
+
+bot:
+  # 官方BOT信息
+  appid: <你的appid>
+  secret: <你的秘钥>
+  token: <你的token>
